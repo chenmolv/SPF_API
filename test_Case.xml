@@ -1,0 +1,17 @@
+<suite name="Suite" parallel="false">
+	<test name="listHomeworkDesc">
+		<classes>testCase.part1.listHomeworkDesc.py</classes>
+		<modelName>666</modelName>
+		<testName>listHomeworkDesc</testName>
+	</test>
+
+
+
+
+	<test name="listHomeworkDesc2">
+		<classes>testCase.part2.listHomeworkDesc2.py</classes>
+		<modelName>777</modelName>
+		<testName>listHomeworkDesc2</testName>
+	</test>
+
+</suite>

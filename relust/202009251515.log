@@ -1,0 +1,161 @@
+2020-09-25 15:15:18,487 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,488 - S_Log.py[line:36] - INFO: 正在执行用例:登陆
+
+2020-09-25 15:15:18,488 - S_Log.py[line:36] - INFO: 请求地址：https://appapi.youxiake.com/app/user/login
+
+2020-09-25 15:15:18,488 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,488 - S_Log.py[line:36] - INFO: 结果：{"code":200,"msg":"登录成功","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDM2MTAxNDAsImlhdCI6MTYwMTAxODE0MCwiaXNzIjoiaHR0cDovLzoiLCJuYmYiOjE2MDEwMTgxNDAsInN1YiI6IjEwODg3OTYzIn0.dkzwzKsGlk8KCFV8qSmhDVKcVVLNcV5AN_iJ_pzoPaY","expires_time":0,"old_token":"","user":{"uid":"10887963","username":"我","avatar":"https://img2.youxiake.com/default_avatar.png?imageView2/0/w/400","meetManage":false}}}
+
+2020-09-25 15:15:18,489 - S_Log.py[line:36] - INFO: 预期：登录成功
+
+2020-09-25 15:15:18,489 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,500 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,501 - S_Log.py[line:36] - INFO: 正在执行用例:登陆2
+
+2020-09-25 15:15:18,501 - S_Log.py[line:36] - INFO: 请求地址：http://192.168.22.172:6003/app/user/login
+
+2020-09-25 15:15:18,501 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,501 - S_Log.py[line:36] - INFO: 结果：{"msg":"服务重启中...请稍后再试","code":500}
+
+2020-09-25 15:15:18,501 - S_Log.py[line:36] - INFO: 预期：失败
+
+2020-09-25 15:15:18,502 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,548 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,549 - S_Log.py[line:36] - INFO: 正在执行用例:登陆
+
+2020-09-25 15:15:18,549 - S_Log.py[line:36] - INFO: 请求地址：https://appapi.youxiake.com/app/user/login
+
+2020-09-25 15:15:18,549 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,549 - S_Log.py[line:36] - INFO: 结果：{"code":200,"msg":"登录成功","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDM2MTAxNDAsImlhdCI6MTYwMTAxODE0MCwiaXNzIjoiaHR0cDovLzoiLCJuYmYiOjE2MDEwMTgxNDAsInN1YiI6IjEwODg3OTYzIn0.dkzwzKsGlk8KCFV8qSmhDVKcVVLNcV5AN_iJ_pzoPaY","expires_time":0,"old_token":"","user":{"uid":"10887963","username":"我","avatar":"https://img2.youxiake.com/default_avatar.png?imageView2/0/w/400","meetManage":false}}}
+
+2020-09-25 15:15:18,550 - S_Log.py[line:36] - INFO: 预期：登录成功
+
+2020-09-25 15:15:18,550 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,555 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,555 - S_Log.py[line:36] - INFO: 正在执行用例:登陆2
+
+2020-09-25 15:15:18,556 - S_Log.py[line:36] - INFO: 请求地址：http://192.168.22.172:6003/app/user/login
+
+2020-09-25 15:15:18,556 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,556 - S_Log.py[line:36] - INFO: 结果：{"msg":"服务重启中...请稍后再试","code":500}
+
+2020-09-25 15:15:18,556 - S_Log.py[line:36] - INFO: 预期：失败
+
+2020-09-25 15:15:18,557 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,602 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,603 - S_Log.py[line:36] - INFO: 正在执行用例:登陆
+
+2020-09-25 15:15:18,603 - S_Log.py[line:36] - INFO: 请求地址：https://appapi.youxiake.com/app/user/login
+
+2020-09-25 15:15:18,604 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,604 - S_Log.py[line:36] - INFO: 结果：{"code":200,"msg":"登录成功","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDM2MTAxNDAsImlhdCI6MTYwMTAxODE0MCwiaXNzIjoiaHR0cDovLzoiLCJuYmYiOjE2MDEwMTgxNDAsInN1YiI6IjEwODg3OTYzIn0.dkzwzKsGlk8KCFV8qSmhDVKcVVLNcV5AN_iJ_pzoPaY","expires_time":0,"old_token":"","user":{"uid":"10887963","username":"我","avatar":"https://img2.youxiake.com/default_avatar.png?imageView2/0/w/400","meetManage":false}}}
+
+2020-09-25 15:15:18,604 - S_Log.py[line:36] - INFO: 预期：登录成功
+
+2020-09-25 15:15:18,605 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,610 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,610 - S_Log.py[line:36] - INFO: 正在执行用例:登陆2
+
+2020-09-25 15:15:18,611 - S_Log.py[line:36] - INFO: 请求地址：http://192.168.22.172:6003/app/user/login
+
+2020-09-25 15:15:18,611 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,611 - S_Log.py[line:36] - INFO: 结果：{"msg":"服务重启中...请稍后再试","code":500}
+
+2020-09-25 15:15:18,612 - S_Log.py[line:36] - INFO: 预期：失败
+
+2020-09-25 15:15:18,612 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,658 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,659 - S_Log.py[line:36] - INFO: 正在执行用例:登陆
+
+2020-09-25 15:15:18,659 - S_Log.py[line:36] - INFO: 请求地址：https://appapi.youxiake.com/app/user/login
+
+2020-09-25 15:15:18,660 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,660 - S_Log.py[line:36] - INFO: 结果：{"code":200,"msg":"登录成功","data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDM2MTAxNDAsImlhdCI6MTYwMTAxODE0MCwiaXNzIjoiaHR0cDovLzoiLCJuYmYiOjE2MDEwMTgxNDAsInN1YiI6IjEwODg3OTYzIn0.dkzwzKsGlk8KCFV8qSmhDVKcVVLNcV5AN_iJ_pzoPaY","expires_time":0,"old_token":"","user":{"uid":"10887963","username":"我","avatar":"https://img2.youxiake.com/default_avatar.png?imageView2/0/w/400","meetManage":false}}}
+
+2020-09-25 15:15:18,660 - S_Log.py[line:36] - INFO: 预期：登录成功
+
+2020-09-25 15:15:18,660 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:18,670 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例开始------------------------
+2020-09-25 15:15:18,671 - S_Log.py[line:36] - INFO: 正在执行用例:登陆2
+
+2020-09-25 15:15:18,672 - S_Log.py[line:36] - INFO: 请求地址：http://192.168.22.172:6003/app/user/login
+
+2020-09-25 15:15:18,672 - S_Log.py[line:36] - INFO: 请求参数：{'username': 17777777777, 'password': 123456}
+
+2020-09-25 15:15:18,672 - S_Log.py[line:36] - INFO: 结果：{"msg":"服务重启中...请稍后再试","code":500}
+
+2020-09-25 15:15:18,673 - S_Log.py[line:36] - INFO: 预期：失败
+
+2020-09-25 15:15:18,673 - S_Log.py[line:36] - INFO: 
+
+---------------------本次用例结束------------------------
+
+
+
+
+2020-09-25 15:15:29,403 - S_Log.py[line:36] - INFO: 邮件发送成功
